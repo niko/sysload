@@ -1,4 +1,4 @@
-This simple tool divides the recent system load by the number of processors to get a meaningfull load number for servers with different processors.
+This simple tool divides the recent system load by the number of processors to get a meaningfull load number for servers with different numbers of processors.
 
 I needs read access to /proc/loadavg and /proc/cpuinfo and works only for systems with these "files".
 
